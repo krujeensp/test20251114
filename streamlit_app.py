@@ -1,5 +1,5 @@
 # 1. ติดตั้งไลบรารี Google GenAI
-# !pip install google-genai
+pip install google-genai
 # (ถ้าใช้ Colab หรือ Jupyter Notebook ให้ใช้เครื่องหมาย !)
 
 # 2. นำเข้าไลบรารี
